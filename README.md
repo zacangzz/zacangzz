@@ -1,7 +1,5 @@
 # Hi there, I'm Zac Ang! 👋😊
 
-## Quick Introduction
-
 I'm an experienced **Human Resources Professional** with over 10 years of experience in regional and global HR roles 🌍, handling the full spectrum of HR functions. I specialize in HR Data Analytics and Data Science 📊 and am a trained Counselling Psychologist 🧠. My passion lies in research, analysis, and busines intelligence, making a positive impact on organizations and their people.
 - 🌱 I’m currently learning: NLP/LLM (HuggingFace)
 - 📫 How to reach me: https://www.linkedin.com/in/zacangzz/
